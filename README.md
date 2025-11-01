@@ -37,5 +37,6 @@ A solução utiliza uma arquitetura moderna e coesa, baseada nos seguintes servi
 ## Membros da Equipe
 
 * [Gabriel Mendonca]
+* [Jeanluca Caleare]
 * [Leandro Balbino]
 * [Yago Armand]
