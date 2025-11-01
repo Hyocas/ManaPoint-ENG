@@ -1,0 +1,25 @@
+# Arquivos de Dependências (Exemplo para Node.js)
+node_modules/
+npm-debug.log
+
+# Arquivos de Build
+dist/
+build/
+
+# Arquivos de Configuração do Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de Configuração de IDEs
+.idea/
+.vscode/
+*.swp
+
+# Arquivos de Ambiente e Credenciais (MUITO IMPORTANTE)
+.env
+*.env
+credentials.json
+aws_keys.txt
+
+# Configuração local do Docker
+docker-compose.override.yml
